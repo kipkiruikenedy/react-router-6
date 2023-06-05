@@ -1,16 +1,4 @@
 ## React Router 
-
-
-## [Video Tutorial](https://youtu.be/3kNpIbTEuos)
-## [Demo link ](https://bw-react-router.netlify.app)
-
-### Tasks 
-
-- Create react app
-- Setup components
-- Setup Router
-- Style
-
 ## Tech stacks
 + React
 + React Router DOM
